@@ -1,8 +1,7 @@
 # HIDE AND SEEK 
 
 It is a project which engraves text in an image using image  steganography.
-Hiding text in an image . Engraving and degraving.
-
+The process involves engraving and degraving of the text bitwise into the pixels of the image.
 We have used HTML,CSS and JavaScript to make front end. We are using Servelet and java file to engrave at backend.
 
 Requirements
